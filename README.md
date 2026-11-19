@@ -1,8 +1,8 @@
 ## Assalamuwalaikum
 ## (Peace be upon you)👋
-I am Mohammed Sayem. A final year university student from Bangladesh.
+I am Mohammed Sayem. A fresh graduate from Brac University.
 
-I learn new codes and build projects. Currently I'm building the 2026 FIFA Worlcup Database.
+I learn new codes and build projects. Currently I'm building the automated trackers and Database for Daraz BD .
 My main tech stack are SQL, Excel and Power bi. My favourite tool is the Visual Studio (VS) code and notes.
 
 I just made an ineteresting project on most demanded workplace skills and professions in 2023.
